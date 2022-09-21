@@ -5,6 +5,7 @@ Seorang Attacker dapat menggunakan XSS untuk mengirim <code>script</code> berbah
 
 <br><br>
 ## XSS Vulneability Scanner Tool's
+* [Dalfox](https://github.com/hahwul/dalfox)
 
 * [XSStrike](https://github.com/UltimateHackers/XSStrike)
 
